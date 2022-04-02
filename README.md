@@ -1,6 +1,6 @@
 # 📌 Frontend_Study
 
-일주일에 1 ~ 2회 디스코드에 모여 프론트엔드 지식을 학습합니다.
+### 일주일에 1 ~ 2회 디스코드에 모여 프론트엔드 지식을 학습합니다.
 
 </br>
 
@@ -42,8 +42,8 @@
   </tr>
 
   <tr align="center">
-    <td>1주차(3/31)</td>
-    <td></td>
+    <td>1주차</td>
+    <td><a href="https://github.com/IISE-FE/FE_Study/blob/main/1%EC%A3%BC%EC%B0%A8/README.md">3월 31일 목요일</a></td>
   </tr>
 
 </table>
