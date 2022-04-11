@@ -46,4 +46,9 @@
     <td><a href="https://github.com/IISE-FE/FE_Study/blob/main/1%EC%A3%BC%EC%B0%A8/README.md">3월 31일 목요일</a></td>
   </tr>
 
+  <tr align="center">
+    <td>2주차</td>
+    <td><a href="https://github.com/IISE-FE/FE_Study/blob/main/2%EC%A3%BC%EC%B0%A8/README.md">4월 5일 화요일</a></td>
+  </tr>
+
 </table>
